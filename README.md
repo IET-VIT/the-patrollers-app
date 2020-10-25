@@ -58,7 +58,7 @@ Specify your API key in the application manifest `android/app/src/main/AndroidMa
 
 ![Third](images/Screenshot_1603636052.png)
 
-![Fourth](images/Screenshot_1603635887.png)
+![Fourth](images/Screenshot_1603635887.jpg)
 
 ## Getting Started
 
