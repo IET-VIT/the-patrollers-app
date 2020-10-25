@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "229863733299",
+    "firebase_url": "https://the-patrollers.firebaseio.com",
+    "project_id": "the-patrollers",
+    "storage_bucket": "the-patrollers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229863733299:android:3f9bae2a9cdec283ac8b46",
+        "android_client_info": {
+          "package_name": "com.example.the_patrollers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229863733299-j7pr8ftlbdqlea58sqlsst3n3b3ggffm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.the_patrollers_app",
+            "certificate_hash": "1278ba86af8370c43c35b5548b28f081e01b8ab2"
+          }
+        },
+        {
+          "client_id": "229863733299-9fv68u55a6imhlpq1kpojtj6ibd8pnfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy4FfhONKyOEOde0rp7La3kkyKg7Lwzr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229863733299-9fv68u55a6imhlpq1kpojtj6ibd8pnfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
